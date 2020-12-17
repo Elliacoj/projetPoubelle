@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d69ca59-a622-4b8c-b4aa-418810ee83e6" name="Default Changelist" comment="Modif">
-      <change afterPath="$PROJECT_DIR$/Maquettes/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poubelle.json" beforeDir="false" afterPath="$PROJECT_DIR$/poubelle.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608205887835</updated>
       <workItem from="1608205889312" duration="2040000" />
-      <workItem from="1608209092430" duration="5093000" />
+      <workItem from="1608209092430" duration="7177000" />
     </task>
     <task id="LOCAL-00001" summary="Modif">
       <created>1608212194864</created>

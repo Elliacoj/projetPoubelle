@@ -1,0 +1,13 @@
+{
+  "name": "Trash",
+  "type": [
+    {
+      "name": "Yellow",
+      "wastes": [
+        {
+          "name": 
+        }
+      ]
+    }
+  ]
+}
