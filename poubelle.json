@@ -2,10 +2,106 @@
   "name": "Trash",
   "type": [
     {
+
       "name": "Yellow",
+      "url": "jaune.PNG",
       "wastes": [
         {
-          "name": 
+          "name": "bidon",
+          "url": "bidon.jpg"
+        },
+        {
+          "name": "bouteillePlastique",
+          "url": "bouteillePlastique.jpg"
+        },
+        {
+          "name": "briqueCecemel",
+          "url": "briqueCecemel.jpg"
+        },
+        {
+          "name": "briqueLait",
+          "url": "briqueLait.jpg"
+        },
+        {
+          "name": "canetteCoca",
+          "url": "canetteCoca.jpg"
+        },
+        {
+          "name": "conserve",
+          "url": "conserve.png"
+        }
+      ]
+    },
+
+    {
+      "name": "blue",
+      "url": "blue.PNG",
+      "wastes": [
+        {
+          "name": "carton",
+          "url": "carton.jpg"
+        },
+        {
+          "name": "journaux",
+          "url": "journaux.jpg"
+        },
+        {
+          "name": "magazine",
+          "url": "magazine.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "brown",
+      "url": "brun.PNG",
+      "wastes": [
+        {
+          "name": "cafe",
+          "url": "cafe.jpg"
+        },
+        {
+          "name": "coquilleOeuf",
+          "url": "coquilleOeuf.jpg"
+        },
+        {
+          "name": "couche",
+          "url": "couche.jpg"
+        },
+        {
+          "name": "os",
+          "url": "os.jpg"
+        },
+        {
+          "name": "peauBanane",
+          "url": "peauBanane.jpg"
+        },
+        {
+          "name": "peauOrange",
+          "url": "peauOrange.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "verte",
+      "url": "verte.PNG",
+      "wastes": [
+        {
+          "name": "bouteilleVert",
+          "url": "bouteilleVert.jpg"
+        },
+        {
+          "name": "confiture",
+          "url": "confiture.jpg"
+        },
+        {
+          "name": "flacon",
+          "url": "flacon.jpg"
+        },
+        {
+          "name": "huile",
+          "url": "image/verte/huile.jpg"
         }
       ]
     }
