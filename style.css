@@ -6,3 +6,15 @@
 html {
     font-size: 62.5%;
 }
+
+body {
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    font-size: 3rem;
+    background-image: ;
+}
+
+#container {
+    width: 100%;
+    display: flex;
+}
